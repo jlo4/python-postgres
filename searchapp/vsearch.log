@@ -1,0 +1,3 @@
+ImmutableMultiDict([('phrase', 'this is a test of the posting capability'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36|en-US,en;q=0.9,sv;q=0.8|{'e', 'a', 'o', 'i'}
+ImmutableMultiDict([('phrase', 'zelandy'), ('letters', 'xyz')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36|en-US,en;q=0.9,sv;q=0.8|{'z', 'y'}
+ImmutableMultiDict([('phrase', 'the last selection'), ('letters', 'aey')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36|en-US,en;q=0.9,sv;q=0.8|{'e', 'a'}
